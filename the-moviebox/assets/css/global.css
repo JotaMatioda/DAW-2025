@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1c1c1c;
+    color: #ededed;
+}
+
+/*Header - Cabeçalho */
+
+header {
+    padding: 1rem 2rem;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .actions a {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #ededed;
+}
+
+header .actions a:hover {
+    text-decoration: underline;
+}
+
+header h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-style: italic;
+    color: #ffffff;
+}
+
+/*Main - Pricipal */
+
+/*Footer - Rodapé */@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "roboto", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+    background-color: #1c1c1c;
+    color: #ededed;
+}
+
+/*HEADER - Cabeçalho */
+header {
+    padding: 1rem 2rem;
+}
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #ffffff;
+
+}
+
+
+/*HEADER - Principal */
+
+
+/*HEADER - Rodapé *
